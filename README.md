@@ -1,2 +1,3 @@
-# Sentiment-Analysis
-Sentiment analysis in Python
+# Анализ тональности слов в данном тексте
+Написан на языке программирования Python 
+Базы данных в файле названием "databases.zip"
